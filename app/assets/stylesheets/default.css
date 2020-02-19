@@ -1,7 +1,7 @@
-table#movies th.hilight{
+  
+table#movies th.hilite{
   background-color: yellow;
 }
 #ratings_submit{
-    background-color: #008CBA;
-    font-size: 12px;
+    background-color: blue
 }
